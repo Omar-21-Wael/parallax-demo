@@ -20,9 +20,20 @@ onscroll = function () {
     you.style.fontSize = 69.5999984741211 + "px";
     you.style.position = "fixed";
 
-    if (scrollY >= 400) {
-      you.style.display = "none";
-    } else you.style.display = "block";
+   if (window.innerWidth <= 768) {
+      if (scrollY >= 190) {
+        you.style.display = "none";
+        
+      } else {
+        you.style.display = "block";
+      }
+    } else {
+      if (scrollY >= 400) {
+        you.style.display = "none";
+      } else {
+        you.style.display = "block";
+      }
+    }
   }
   if (scrollY >= 165) {
     this.document.querySelector(".main").style.background =
