@@ -20,7 +20,7 @@ onscroll = function () {
     you.style.fontSize = 69.5999984741211 + "px";
     you.style.position = "fixed";
 
-    if (scrollY >= 470) {
+    if (scrollY >= 400) {
       you.style.display = "none";
     } else you.style.display = "block";
   }
