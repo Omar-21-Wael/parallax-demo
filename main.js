@@ -21,14 +21,14 @@ onscroll = function () {
     you.style.position = "fixed";
 
    if (window.innerWidth <= 768) {
-      if (scrollY >= 190) {
+      if (scrollY >= 180) {
         you.style.display = "none";
         
       } else {
         you.style.display = "block";
       }
     } else {
-      if (scrollY >= 400) {
+      if (scrollY >= 450) {
         you.style.display = "none";
       } else {
         you.style.display = "block";
