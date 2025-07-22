@@ -26,23 +26,25 @@ parallax-demo/
 ├── style.css        # Styling and layout
 ├── main.js          # JavaScript logic
 └── Photos/          # Background images
-✨ Features
+```
+### ✨ Features
+
 Smooth parallax effect
 
 Clean and minimal design
 
 Responsive and lightweight
 
-📷 Screenshot
+### 📷 Screenshot
 
-🧠 Future Improvements
+### 🧠 Future Improvements
 Make it fully responsive on mobile
 
 Add scroll-based animations
 
 Turn into a reusable component
 
-👨‍💻 Author
+### 👨‍💻 Author
 Omar Wael
-📧 Email:omar21wael@gmail.com  
-🔗 LinkedIn:https://www.linkedin.com/in/omar-wael-46712a369/
+📧 Email:[omar21wael@gmail.com](mailto:omar21wael@gmail.com)   
+🔗 [LinkedIn](https://www.linkedin.com/in/omar-wael-46712a369/)
