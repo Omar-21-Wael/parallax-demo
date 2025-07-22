@@ -44,5 +44,5 @@ Turn into a reusable component
 
 👨‍💻 Author
 Omar Wael
-📧 Email:[omar21wael@gmail.com](mailto:omar21wael@gmail.com)  
-🔗 Account:[LinkedIn](https://www.linkedin.com/in/omar-wael-46712a369/)
+📧 Email:omar21wael@gmail.com  
+🔗 LinkedIn:https://www.linkedin.com/in/omar-wael-46712a369/
